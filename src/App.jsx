@@ -16,7 +16,7 @@ const App = () => {
     <BrowserRouter>
       <div className="mx-4 sm:mx-[10%]">
         <Navbar />
-        <Home />
+        {/* <Home /> */}
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/doctors" element={<Doctors />} />
