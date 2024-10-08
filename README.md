@@ -1,5 +1,7 @@
 # Online Doctor Appointment Booking Website
 
+[Click here to view the deployed website](https://prescripto-vert.vercel.app/)
+
 - This is an online appointment booking website where users can browse and filter doctors by their specialties, choose a date and time slot within a 7-day window, and book an appointment.
 - The frontend of the app is built using React JS and Tailwind CSS for a seamless and responsive user experience.
 
